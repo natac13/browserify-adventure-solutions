@@ -1,0 +1,19 @@
+{
+  "name": "browserify-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep_boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  }
+}
