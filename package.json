@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "domify": "^1.4.0",
     "uniq": "^1.0.1"
   },
   "devDependencies": {
